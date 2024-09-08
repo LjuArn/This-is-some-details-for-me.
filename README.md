@@ -9,4 +9,3 @@ This is some details for me.
 [![trophy](https://github-profile-trophy.vercel.app/?username=LjuArn&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LjuArn&repo=This-is-some-details-for-me.)
