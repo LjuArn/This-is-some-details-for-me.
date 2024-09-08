@@ -9,10 +9,3 @@ This is some details for me.
 [![trophy](https://github-profile-trophy.vercel.app/?username=LjuArn&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-#### Add
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LjuArn&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/LjuArn/github-readme-stats)
-
-
-![ambient_gradient_repo](https://github-readme-stats.vercel.app/api/pin/?username=LjuArn&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
